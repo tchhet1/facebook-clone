@@ -1,0 +1,9 @@
+.storyreel {
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: #fff;
+    padding: 20px 20px;
+    border-radius: 15px;
+    width: 700px;
+    overflow-x: scroll;
+}
